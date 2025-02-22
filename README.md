@@ -21,7 +21,7 @@ A simple and intuitive to-do list app built using **HTML**, **CSS**, and **JavaS
 2. Open the index.html file in your browser to start using the app.
 3. Add, delete, and manage your tasks!
 
-## Features to Add (O
+## Features to Add 
 
 - **Task Sorting**: Sort tasks by priority or due date.
 - **Task Editing**: Edit existing tasks to make updates.
